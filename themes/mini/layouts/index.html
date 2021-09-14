@@ -6,7 +6,7 @@
     {{ $paginator := .Paginate ($pages) }}
     {{ range $paginator.Pages }}
         {{ $title := .Title }}
-        {{ $summary := .Summary }}
+        {{ $summary := .Content }}
         <section class="item">
           <div>
             <h1 class="title"><a href='{{ .RelPermalink }}'>{{ $title }}</a></h1>
