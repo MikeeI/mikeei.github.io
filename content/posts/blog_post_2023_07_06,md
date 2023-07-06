@@ -1,6 +1,19 @@
 ---
 title: "Post 2023-07-06"
 date: 2023-07-06T22:05:48Z
+description = ""
+tags = [
+    "go",
+    "golang",
+    "templates",
+    "themes",
+    "development",
+],
+menu = "main",
+categories = [
+    "Development",
+    "golang",
+]
 draft: false
 ---
 
