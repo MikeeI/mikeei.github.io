@@ -1,4 +1,4 @@
-baseURL: https://mikeei.github.io/
+baseURL: "https://mikeei.github.io/"
 title: Hugo Book
 theme: hugo-book
 
