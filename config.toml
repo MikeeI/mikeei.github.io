@@ -1,3 +1,10 @@
 baseURL = "https://mikeei.github.io/"
-title = "Hugo Book"
+title = "Mikeei Blog"
 theme = "hugo-book"
+
+[params]
+  BookTheme = 'light'
+  BookToC = false
+  BookLogo = 'favicon.png'
+  BookSearch = false
+  BookComments = false
