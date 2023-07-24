@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mikeei Blog</title>
-    <link>https://mikeei.github.io/</link>
-    <description>Recent content on Mikeei Blog</description>
+    <title>Blog on Mikeei Blog</title>
+    <link>https://mikeei.github.io/blog/</link>
+    <description>Recent content in Blog on Mikeei Blog</description>
     <image>
       <title>Mikeei Blog</title>
       <url>https://mikeei.github.io/papermod-cover.png</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Make Your Own PCBs with a 3D Printer</title>
       <link>https://mikeei.github.io/blog/blog_post_2023_07_10_2/</link>
@@ -97,15 +97,6 @@ Some text, and some code and then a nice plain link with title.</description>
 Buttons Primary Secondary Success Danger Warning Info Light Dark
 Primary Secondary Success Danger Warning Info Light Dark
 Alerts This is a primary alert—check it out! This is a secondary alert—check it out! This is a success alert—check it out! This is a danger alert—check it out! This is a warning alert—check it out! This is a info alert—check it out! This is a light alert—check it out!</description>
-    </item>
-    
-    <item>
-      <title>About Hugo Tanka</title>
-      <link>https://mikeei.github.io/about/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mikeei.github.io/about/</guid>
-      <description>A description of the page</description>
     </item>
     
     <item>

@@ -1,2 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cat2 on Mikeei Blog</title><link>https://mikeei.github.io/categories/cat2/</link><description>Recent content in cat2 on Mikeei Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jul 2023 01:05:48 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/categories/cat2/index.xml" rel="self" type="application/rss+xml"/><item><title>Post 2023-07-05</title><link>https://mikeei.github.io/posts/blog_post_2023_07_05/</link><pubDate>Wed, 05 Jul 2023 01:05:48 +0000</pubDate><guid>https://mikeei.github.io/posts/blog_post_2023_07_05/</guid><description>Lorem est tota propiore conpellat pectoribus de pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
-Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cat2 on Mikeei Blog</title>
+    <link>https://mikeei.github.io/categories/cat2/</link>
+    <description>Recent content in cat2 on Mikeei Blog</description>
+    <image>
+      <title>Mikeei Blog</title>
+      <url>https://mikeei.github.io/papermod-cover.png</url>
+      <link>https://mikeei.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jul 2023 01:05:48 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/categories/cat2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 2023-07-05</title>
+      <link>https://mikeei.github.io/blog/blog_post_2023_07_05/</link>
+      <pubDate>Wed, 05 Jul 2023 01:05:48 +0000</pubDate>
+      
+      <guid>https://mikeei.github.io/blog/blog_post_2023_07_05/</guid>
+      <description>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux.
+Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit
+possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.</description>
+    </item>
+    
+  </channel>
+</rss>

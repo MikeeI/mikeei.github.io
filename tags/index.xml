@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Mikeei Blog</title><link>https://mikeei.github.io/tags/</link><description>Recent content in Tags on Mikeei Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Jul 2023 01:05:48 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>tag1</title><link>https://mikeei.github.io/tags/tag1/</link><pubDate>Wed, 05 Jul 2023 01:05:48 +0000</pubDate><guid>https://mikeei.github.io/tags/tag1/</guid><description/></item><item><title>tag2</title><link>https://mikeei.github.io/tags/tag2/</link><pubDate>Wed, 05 Jul 2023 01:05:48 +0000</pubDate><guid>https://mikeei.github.io/tags/tag2/</guid><description/></item><item><title>development</title><link>https://mikeei.github.io/tags/development/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://mikeei.github.io/tags/development/</guid><description/></item><item><title>go</title><link>https://mikeei.github.io/tags/go/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://mikeei.github.io/tags/go/</guid><description/></item><item><title>golang</title><link>https://mikeei.github.io/tags/golang/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://mikeei.github.io/tags/golang/</guid><description/></item><item><title>hugo</title><link>https://mikeei.github.io/tags/hugo/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://mikeei.github.io/tags/hugo/</guid><description/></item><item><title>templates</title><link>https://mikeei.github.io/tags/templates/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://mikeei.github.io/tags/templates/</guid><description/></item><item><title>themes</title><link>https://mikeei.github.io/tags/themes/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://mikeei.github.io/tags/themes/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Mikeei Blog</title>
+    <link>https://mikeei.github.io/tags/</link>
+    <description>Recent content in Tags on Mikeei Blog</description>
+    <image>
+      <title>Mikeei Blog</title>
+      <url>https://mikeei.github.io/papermod-cover.png</url>
+      <link>https://mikeei.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jul 2023 01:05:48 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag1</title>
+      <link>https://mikeei.github.io/tags/tag1/</link>
+      <pubDate>Wed, 05 Jul 2023 01:05:48 +0000</pubDate>
+      
+      <guid>https://mikeei.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://mikeei.github.io/tags/tag2/</link>
+      <pubDate>Wed, 05 Jul 2023 01:05:48 +0000</pubDate>
+      
+      <guid>https://mikeei.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

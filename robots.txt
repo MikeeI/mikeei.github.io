@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mikeei.github.io/sitemap.xml
