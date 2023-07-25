@@ -128,6 +128,36 @@
     </item>
     
     <item>
+      <title>CSS: Styling the Web</title>
+      <link>https://mikeei.github.io/blog/post_006/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikeei.github.io/blog/post_006/</guid>
+      <description>Exploring the impact and essential elements of Cascading Style Sheets (CSS) in web development.</description>
+      <content:encoded><![CDATA[<p>CSS, short for Cascading Style Sheets, is a style sheet language used for describing the look and formatting of a document written in HTML. From typography to layout, CSS is a fundamental tool for web development.</p>
+<p><img loading="lazy" src="https://picsum.photos/810" alt="CSS Banner"  />
+
+<em>CSS: Making the web beautiful</em></p>
+<p>CSS&rsquo;s main benefit is that it allows developers to separate the website&rsquo;s content (HTML) from its presentation (CSS). This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, and reduce complexity and repetition in the structural content.</p>
+<p><img loading="lazy" src="https://picsum.photos/815" alt="HTML CSS"  />
+
+<em>The symbiotic relationship between HTML and CSS</em></p>
+<p>One of CSS&rsquo;s core features is the ability to control the layout of multiple web pages all at once. By changing one CSS file, you can modify the look of an entire website. This ability makes CSS an incredibly efficient tool for maintaining large sites.</p>
+<p><img loading="lazy" src="https://picsum.photos/620" alt="CSS Styling"  />
+
+<em>CSS at work, styling multiple pages at once</em></p>
+<p>CSS is also responsive, which means it can ensure that web pages look good on devices of all sizes. With features like media queries, you can create different layouts for different screen sizes.</p>
+<p><img loading="lazy" src="https://picsum.photos/670" alt="Responsive CSS"  />
+
+<em>Responsive design with CSS</em></p>
+<p>In conclusion, CSS is a crucial part of web development that allows developers to create visually engaging and efficient websites. Whether you&rsquo;re just starting your web development journey or you&rsquo;re a seasoned developer, a solid understanding of CSS is essential.</p>
+<p><img loading="lazy" src="https://picsum.photos/690" alt="CSS Code"  />
+
+<em>Writing CSS code for a website</em></p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Make Your Own PCBs with a 3D Printer</title>
       <link>https://mikeei.github.io/blog/blog_post_2023_07_10_2/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
