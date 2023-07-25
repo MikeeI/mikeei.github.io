@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mikeei.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Horizon: A Deep Dive Into the Unknown</title>
+      <link>https://mikeei.github.io/blog/post_001/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mikeei.github.io/blog/post_001/</guid>
+      <description>An exploration into the intriguing sci-fi horror film Event Horizon.</description>
+    </item>
+    
     <item>
       <title>Make Your Own PCBs with a 3D Printer</title>
       <link>https://mikeei.github.io/blog/blog_post_2023_07_10_2/</link>
