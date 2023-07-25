@@ -1,6 +1,6 @@
 ---
 title: "Aliens: An Unforgettable Sci-Fi Horror Sequel"
-date: 2023-07-26
+date: 2023-07-24
 draft: false
 description: "Delving into the action-packed and fear-inducing world of James Cameron's Aliens."
 cover:
