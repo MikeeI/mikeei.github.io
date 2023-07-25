@@ -49,7 +49,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  author: Arnolf
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -80,15 +80,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod"
+    Title: "MikeeI"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Do give a 🌟 on Github !
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      Welcome
 
   socialIcons:
     - name: github
