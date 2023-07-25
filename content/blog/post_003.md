@@ -1,6 +1,6 @@
 ---
 title: "Alien: Resurrection - Reinventing The Horror"
-date: 2023-07-27
+date: 2023-07-22
 draft: false
 description: "Investigating the bold twists and turns of the fourth film in the Alien franchise."
 cover:
