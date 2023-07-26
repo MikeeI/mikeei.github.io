@@ -256,9 +256,7 @@
       
       <guid>https://mikeei.github.io/blog/blog_post_2023_07_10/</guid>
       <description>An in-depth comparison of Firecracker and QEMU, and why we chose to switch from Firecracker to QEMU for Hocus.</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="https://hocus.dev/blog/img/hocus-logo-with-text.png" alt="Hocus Logo"  />
-</p>
-<h1 id="why-we-replaced-firecracker-with-qemu">Why We Replaced Firecracker with QEMU</h1>
+      <content:encoded><![CDATA[<h1 id="why-we-replaced-firecracker-with-qemu">Why We Replaced Firecracker with QEMU</h1>
 <p><em>July 10, 2023</em><br>
 <em>Hugo Dutka</em><br>
 <em>Co-founder at Hocus</em></p>
