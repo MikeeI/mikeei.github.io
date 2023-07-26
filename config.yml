@@ -2,7 +2,7 @@ baseURL: "https://mikeei.github.io/" # if your site is in 'https', then make sur
 title: "Mikeei Blog"
 paginate: 10
 theme: hugo-PaperMod
-
+relativeURLs: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
