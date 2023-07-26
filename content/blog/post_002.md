@@ -4,10 +4,12 @@ date: 2023-07-24
 draft: false
 description: "Delving into the action-packed and fear-inducing world of James Cameron's Aliens."
 cover:
-    image: "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    image: "/images/justin-wolff-jNfN0NCUHX4-unsplash.jpg"
     alt: "Movie poster for Aliens"
     caption: "The suspenseful Aliens movie poster"
-    relative: false
+    relative: true
+    hidden: false
+    responsiveImages: true
 
 ---
 
