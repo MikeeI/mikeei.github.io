@@ -26,19 +26,12 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
         - name: Search
           url: search/
           weight: 10
         - name: Tags
           url: tags/
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-        - name: Discord
-          url: https://discord.gg/ahpmTvhVmp
 
 outputs:
   home:
@@ -63,7 +56,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
-  ShowToc: true
+  ShowToc: false
   # comments: false
   images: ["papermod-cover.png"]
 
@@ -86,10 +79,6 @@ params:
       Welcome
 
   socialIcons:
-    - name: github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: KoFi
-      url: "https://ko-fi.com/adityatelange"
     - name: Rss
       url: "index.xml"
 
