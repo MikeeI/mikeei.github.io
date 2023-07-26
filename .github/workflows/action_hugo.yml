@@ -34,15 +34,6 @@ jobs:
 
       - name: Build
         run: hugo --minify
-      
-      - name: Publish Cloudflare
-        uses: cloudflare/pages-action@1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: '729496562692048' # e.g. 'my-project'
-          directory: 'public' # e.g. 'dist'
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
