@@ -7,6 +7,7 @@
     {{- $pageBundleCover     := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
     {{- $globalResourcesCover := (resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
     {{- $cover := (or $pageBundleCover $globalResourcesCover)}}
+    {{ printf "%#v" $cover }}
     {{- if $cover -}}{{/* i.e it is present in page bundle */}}
         {{- if $addLink }}<a href="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" target="_blank"
             rel="noopener noreferrer">{{ end -}}
