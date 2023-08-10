@@ -7,7 +7,7 @@ cover:
     image: "images/vm-mem-usage-ae3ffeb0cc6a2df2f662597c653d9bf4.png"
     alt: "Google logo"
     caption: "The logo for Google"
-    relative: false
+    relative: true
 
 ---
 
