@@ -24,16 +24,11 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
-          
-      - uses: actions/cache@v2
-        with:
-          path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
 
       - name: Build
         run: hugo --minify
+      - name: DEBUG
+        run: ls -lahtr
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
