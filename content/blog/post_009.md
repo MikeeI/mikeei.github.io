@@ -4,7 +4,7 @@ date: 2023-07-26
 draft: false
 description: "An overview of Google's evolution from a humble search engine to a technology powerhouse."
 cover:
-    image: "https://picsum.photos/610"
+    image: "images/vm-mem-usage-ae3ffeb0cc6a2df2f662597c653d9bf4.png"
     alt: "Google logo"
     caption: "The logo for Google"
     relative: false
